@@ -1,0 +1,85 @@
+*{
+    background-color:rgb(36,37,38);
+}
+h1{
+    color:rgb(231,232,233);
+    background-color:rgb(16,17,18);
+    padding-left: 10px;
+    font-size: 65px;
+}
+
+p{
+    color:rgb(231,232,233);
+}
+h2{
+    color:rgb(231,232,233);
+    bottom:10070px;
+
+}
+.Body2{
+    margin-right: 34%;
+    position:absolute;
+    margin-left: -250px; /* very important for the image to be centered */
+    left:50%;
+    top:70px;
+    font-size: 28px;
+    flex-wrap:nowrap;
+    padding-bottom:50px;
+    padding-top:20px;
+    color:rgb(231,232,233)
+}
+a{
+  color:rgb(231,232,233)
+}
+
+.link-Button{
+  font-size: 20px;
+  justify-content: flex-start;
+}
+
+.Discord{
+  position:fixed;
+  margin-left: -250px; /* very important for the image to be centered */
+  left:260px;
+  bottom:0px;
+  opacity: 0.2;
+}
+
+.Discord:hover{
+  opacity: 1;
+}
+
+*{
+    margin:0;
+    padding:0px;
+}
+
+a:link{
+    color:rgb(231,232,233);
+}
+a:visited{
+    color:rgb(231,232,233);
+}
+
+.Body{
+  margin-right: 34%;
+  position:absolute;
+  margin-left: -250px; /* very important for the image to be centered */
+  left:50%;
+  top:100px;
+  font-size: 28px;
+  flex-wrap:nowrap;
+  padding-bottom:50px;
+  padding-top:50px;
+  color:rgb(231,232,233)
+
+}
+
+.Image1{
+}
+
+.atom-live-server.json
+
+    {
+      "browser": "chrome"
+    }
